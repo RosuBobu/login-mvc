@@ -1,0 +1,16 @@
+*, body{
+    background-color: rgb(50, 0, 0);
+    color: khaki;
+}
+h1{
+    color: khaki;
+    -webkit-text-stroke: tomato 1px;
+    font-weight: bold;
+}
+table tr{
+    color: white;
+    text-shadow: 1px 0px 0px black;
+}
+p{
+    color:red;
+}
